@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recipedia  📚 </string>
+    <string name="search_placeholder">Search for a recipe...</string>
+    <string name="view_favorites">💖 View Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="recipe_of_the_day">🌟 Recipe of the Day 🌟</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="change_language">Change Language</string>
+    <string name="recipes">Recipes</string>
+</resources>

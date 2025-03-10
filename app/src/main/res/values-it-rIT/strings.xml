@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">TheMealDB App</string>
+        <string name="search_placeholder">Cerca una ricetta...</string>
+        <string name="view_favorites">💖 Visualizza Preferiti</string>
+        <string name="categories">Categorie</string>
+        <string name="recipe_of_the_day">🌟 Ricetta del Giorno 🌟</string>
+        <string name="ingredients">Ingredienti</string>
+        <string name="change_language">Cambia Lingua</string>
+        <string name="recipes">Ricette</string>
+</resources>
